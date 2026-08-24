@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Amirtha-176/LeetCode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1080-insufficient-nodes-in-root-to-leaf-paths](https://github.com/Amirtha-176/LeetCode/tree/master/1080-insufficient-nodes-in-root-to-leaf-paths) |
 | [2509-cycle-length-queries-in-a-tree](https://github.com/Amirtha-176/LeetCode/tree/master/2509-cycle-length-queries-in-a-tree) |
+| [2538-difference-between-maximum-and-minimum-price-sum](https://github.com/Amirtha-176/LeetCode/tree/master/2538-difference-between-maximum-and-minimum-price-sum) |
 ## Binary Tree
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Amirtha-176/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1872-stone-game-viii](https://github.com/Amirtha-176/LeetCode/tree/master/1872-stone-game-viii) |
 | [2509-cycle-length-queries-in-a-tree](https://github.com/Amirtha-176/LeetCode/tree/master/2509-cycle-length-queries-in-a-tree) |
+| [2538-difference-between-maximum-and-minimum-price-sum](https://github.com/Amirtha-176/LeetCode/tree/master/2538-difference-between-maximum-and-minimum-price-sum) |
 | [2573-find-the-string-with-lcp](https://github.com/Amirtha-176/LeetCode/tree/master/2573-find-the-string-with-lcp) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Amirtha-176/LeetCode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Amirtha-176/LeetCode/tree/master/3661-maximum-walls-destroyed-by-robots) |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/Amirtha-176/LeetCode/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Amirtha-176/LeetCode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1080-insufficient-nodes-in-root-to-leaf-paths](https://github.com/Amirtha-176/LeetCode/tree/master/1080-insufficient-nodes-in-root-to-leaf-paths) |
+| [2538-difference-between-maximum-and-minimum-price-sum](https://github.com/Amirtha-176/LeetCode/tree/master/2538-difference-between-maximum-and-minimum-price-sum) |
 ## String
 |  |
 | ------- |
@@ -98,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1872-stone-game-viii](https://github.com/Amirtha-176/LeetCode/tree/master/1872-stone-game-viii) |
+| [2538-difference-between-maximum-and-minimum-price-sum](https://github.com/Amirtha-176/LeetCode/tree/master/2538-difference-between-maximum-and-minimum-price-sum) |
 | [2573-find-the-string-with-lcp](https://github.com/Amirtha-176/LeetCode/tree/master/2573-find-the-string-with-lcp) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Amirtha-176/LeetCode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Amirtha-176/LeetCode/tree/master/3661-maximum-walls-destroyed-by-robots) |
@@ -147,4 +151,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2509-cycle-length-queries-in-a-tree](https://github.com/Amirtha-176/LeetCode/tree/master/2509-cycle-length-queries-in-a-tree) |
+## DP on Trees
+|  |
+| ------- |
+| [2538-difference-between-maximum-and-minimum-price-sum](https://github.com/Amirtha-176/LeetCode/tree/master/2538-difference-between-maximum-and-minimum-price-sum) |
 <!---LeetCode Topics End-->
