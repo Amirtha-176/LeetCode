@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1080-insufficient-nodes-in-root-to-leaf-paths](https://github.com/Amirtha-176/LeetCode/tree/master/1080-insufficient-nodes-in-root-to-leaf-paths) |
 | [2509-cycle-length-queries-in-a-tree](https://github.com/Amirtha-176/LeetCode/tree/master/2509-cycle-length-queries-in-a-tree) |
 | [2538-difference-between-maximum-and-minimum-price-sum](https://github.com/Amirtha-176/LeetCode/tree/master/2538-difference-between-maximum-and-minimum-price-sum) |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Amirtha-176/LeetCode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Amirtha-176/LeetCode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1080-insufficient-nodes-in-root-to-leaf-paths](https://github.com/Amirtha-176/LeetCode/tree/master/1080-insufficient-nodes-in-root-to-leaf-paths) |
 | [2509-cycle-length-queries-in-a-tree](https://github.com/Amirtha-176/LeetCode/tree/master/2509-cycle-length-queries-in-a-tree) |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Amirtha-176/LeetCode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Array
 |  |
 | ------- |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/Amirtha-176/LeetCode/tree/master/0332-reconstruct-itinerary) |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Amirtha-176/LeetCode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Amirtha-176/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Amirtha-176/LeetCode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Heap (Priority Queue)
@@ -155,4 +158,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2538-difference-between-maximum-and-minimum-price-sum](https://github.com/Amirtha-176/LeetCode/tree/master/2538-difference-between-maximum-and-minimum-price-sum) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Amirtha-176/LeetCode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 <!---LeetCode Topics End-->
