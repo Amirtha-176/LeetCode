@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0332-reconstruct-itinerary](https://github.com/Amirtha-176/LeetCode/tree/master/0332-reconstruct-itinerary) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Amirtha-176/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1872-stone-game-viii](https://github.com/Amirtha-176/LeetCode/tree/master/1872-stone-game-viii) |
+| [2573-find-the-string-with-lcp](https://github.com/Amirtha-176/LeetCode/tree/master/2573-find-the-string-with-lcp) |
 ## Stack
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/Amirtha-176/LeetCode/tree/master/0332-reconstruct-itinerary) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/Amirtha-176/LeetCode/tree/master/1028-recover-a-tree-from-preorder-traversal) |
+| [2573-find-the-string-with-lcp](https://github.com/Amirtha-176/LeetCode/tree/master/2573-find-the-string-with-lcp) |
 ## Graph Theory
 |  |
 | ------- |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1872-stone-game-viii](https://github.com/Amirtha-176/LeetCode/tree/master/1872-stone-game-viii) |
+| [2573-find-the-string-with-lcp](https://github.com/Amirtha-176/LeetCode/tree/master/2573-find-the-string-with-lcp) |
 ## Minimax
 |  |
 | ------- |
@@ -102,4 +105,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1872-stone-game-viii](https://github.com/Amirtha-176/LeetCode/tree/master/1872-stone-game-viii) |
+## Greedy
+|  |
+| ------- |
+| [2573-find-the-string-with-lcp](https://github.com/Amirtha-176/LeetCode/tree/master/2573-find-the-string-with-lcp) |
+## Union-Find
+|  |
+| ------- |
+| [2573-find-the-string-with-lcp](https://github.com/Amirtha-176/LeetCode/tree/master/2573-find-the-string-with-lcp) |
+## Matrix
+|  |
+| ------- |
+| [2573-find-the-string-with-lcp](https://github.com/Amirtha-176/LeetCode/tree/master/2573-find-the-string-with-lcp) |
 <!---LeetCode Topics End-->
