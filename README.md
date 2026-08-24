@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Amirtha-176/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1872-stone-game-viii](https://github.com/Amirtha-176/LeetCode/tree/master/1872-stone-game-viii) |
 | [2573-find-the-string-with-lcp](https://github.com/Amirtha-176/LeetCode/tree/master/2573-find-the-string-with-lcp) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Amirtha-176/LeetCode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 ## Stack
 |  |
 | ------- |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1872-stone-game-viii](https://github.com/Amirtha-176/LeetCode/tree/master/1872-stone-game-viii) |
 | [2573-find-the-string-with-lcp](https://github.com/Amirtha-176/LeetCode/tree/master/2573-find-the-string-with-lcp) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Amirtha-176/LeetCode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 ## Minimax
 |  |
 | ------- |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2573-find-the-string-with-lcp](https://github.com/Amirtha-176/LeetCode/tree/master/2573-find-the-string-with-lcp) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Amirtha-176/LeetCode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 ## Hash Table
 |  |
 | ------- |
