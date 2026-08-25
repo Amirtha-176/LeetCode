@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/Amirtha-176/LeetCode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Amirtha-176/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0998-maximum-binary-tree-ii](https://github.com/Amirtha-176/LeetCode/tree/master/0998-maximum-binary-tree-ii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Amirtha-176/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/Amirtha-176/LeetCode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Amirtha-176/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Search Tree
 |  |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/Amirtha-176/LeetCode/tree/master/0332-reconstruct-itinerary) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/Amirtha-176/LeetCode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Amirtha-176/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Amirtha-176/LeetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Amirtha-176/LeetCode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
