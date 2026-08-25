@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Amirtha-176/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0998-maximum-binary-tree-ii](https://github.com/Amirtha-176/LeetCode/tree/master/0998-maximum-binary-tree-ii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Amirtha-176/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Amirtha-176/LeetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Amirtha-176/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0998-maximum-binary-tree-ii](https://github.com/Amirtha-176/LeetCode/tree/master/0998-maximum-binary-tree-ii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Amirtha-176/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Amirtha-176/LeetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/Amirtha-176/LeetCode/tree/master/0332-reconstruct-itinerary) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Amirtha-176/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Amirtha-176/LeetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Amirtha-176/LeetCode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/Amirtha-176/LeetCode/tree/master/1028-recover-a-tree-from-preorder-traversal) |
@@ -145,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Amirtha-176/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/Amirtha-176/LeetCode/tree/master/2641-cousins-in-binary-tree-ii) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Amirtha-176/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Amirtha-176/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -167,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Amirtha-176/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Amirtha-176/LeetCode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/Amirtha-176/LeetCode/tree/master/2641-cousins-in-binary-tree-ii) |
 <!---LeetCode Topics End-->
