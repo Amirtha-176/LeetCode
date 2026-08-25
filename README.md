@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2573-find-the-string-with-lcp](https://github.com/Amirtha-176/LeetCode/tree/master/2573-find-the-string-with-lcp) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Amirtha-176/LeetCode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Amirtha-176/LeetCode/tree/master/3661-maximum-walls-destroyed-by-robots) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Amirtha-176/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Stack
 |  |
 | ------- |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2641-cousins-in-binary-tree-ii](https://github.com/Amirtha-176/LeetCode/tree/master/2641-cousins-in-binary-tree-ii) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Amirtha-176/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Amirtha-176/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## String Matching
 |  |
 | ------- |
