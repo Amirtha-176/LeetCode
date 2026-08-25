@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Amirtha-176/LeetCode/tree/master/0589-n-ary-tree-preorder-traversal) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Amirtha-176/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Amirtha-176/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0998-maximum-binary-tree-ii](https://github.com/Amirtha-176/LeetCode/tree/master/0998-maximum-binary-tree-ii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Amirtha-176/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Amirtha-176/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Amirtha-176/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0998-maximum-binary-tree-ii](https://github.com/Amirtha-176/LeetCode/tree/master/0998-maximum-binary-tree-ii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Amirtha-176/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Amirtha-176/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Amirtha-176/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Amirtha-176/LeetCode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Amirtha-176/LeetCode/tree/master/3661-maximum-walls-destroyed-by-robots) |
@@ -94,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/Amirtha-176/LeetCode/tree/master/0332-reconstruct-itinerary) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Amirtha-176/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Eulerian Circuit
 |  |
 | ------- |
@@ -177,4 +181,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Amirtha-176/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Amirtha-176/LeetCode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/Amirtha-176/LeetCode/tree/master/2641-cousins-in-binary-tree-ii) |
+## Design
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Amirtha-176/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Amirtha-176/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
