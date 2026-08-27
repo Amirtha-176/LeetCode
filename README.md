@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2573-find-the-string-with-lcp](https://github.com/Amirtha-176/LeetCode/tree/master/2573-find-the-string-with-lcp) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Amirtha-176/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Amirtha-176/LeetCode/tree/master/3474-lexicographically-smallest-generated-string) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Amirtha-176/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Graph Theory
 |  |
 | ------- |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2573-find-the-string-with-lcp](https://github.com/Amirtha-176/LeetCode/tree/master/2573-find-the-string-with-lcp) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Amirtha-176/LeetCode/tree/master/3474-lexicographically-smallest-generated-string) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Amirtha-176/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Union-Find
 |  |
 | ------- |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2641-cousins-in-binary-tree-ii](https://github.com/Amirtha-176/LeetCode/tree/master/2641-cousins-in-binary-tree-ii) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Amirtha-176/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Amirtha-176/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Amirtha-176/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## String Matching
 |  |
 | ------- |
@@ -193,4 +196,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Amirtha-176/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
+## Counting
+|  |
+| ------- |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Amirtha-176/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+## Enumeration
+|  |
+| ------- |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Amirtha-176/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 <!---LeetCode Topics End-->
