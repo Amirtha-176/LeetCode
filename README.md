@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/Amirtha-176/LeetCode/tree/master/0332-reconstruct-itinerary) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Amirtha-176/LeetCode/tree/master/0589-n-ary-tree-preorder-traversal) |
+| [0685-redundant-connection-ii](https://github.com/Amirtha-176/LeetCode/tree/master/0685-redundant-connection-ii) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Amirtha-176/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Amirtha-176/LeetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Amirtha-176/LeetCode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/Amirtha-176/LeetCode/tree/master/0332-reconstruct-itinerary) |
+| [0685-redundant-connection-ii](https://github.com/Amirtha-176/LeetCode/tree/master/0685-redundant-connection-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0685-redundant-connection-ii](https://github.com/Amirtha-176/LeetCode/tree/master/0685-redundant-connection-ii) |
 | [2573-find-the-string-with-lcp](https://github.com/Amirtha-176/LeetCode/tree/master/2573-find-the-string-with-lcp) |
 ## Matrix
 |  |
@@ -188,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0685-redundant-connection-ii](https://github.com/Amirtha-176/LeetCode/tree/master/0685-redundant-connection-ii) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Amirtha-176/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Amirtha-176/LeetCode/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Amirtha-176/LeetCode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
