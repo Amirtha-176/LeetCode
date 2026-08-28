@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Amirtha-176/LeetCode/tree/master/0062-unique-paths) |
+| [0089-gray-code](https://github.com/Amirtha-176/LeetCode/tree/master/0089-gray-code) |
 | [1872-stone-game-viii](https://github.com/Amirtha-176/LeetCode/tree/master/1872-stone-game-viii) |
 ## Dynamic Programming
 |  |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0052-n-queens-ii](https://github.com/Amirtha-176/LeetCode/tree/master/0052-n-queens-ii) |
+| [0089-gray-code](https://github.com/Amirtha-176/LeetCode/tree/master/0089-gray-code) |
 ## Algorithm X
 |  |
 | ------- |
@@ -253,4 +255,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Amirtha-176/LeetCode/tree/master/0062-unique-paths) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0089-gray-code](https://github.com/Amirtha-176/LeetCode/tree/master/0089-gray-code) |
 <!---LeetCode Topics End-->
