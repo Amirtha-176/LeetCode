@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/Amirtha-176/LeetCode/tree/master/0061-rotate-list) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Amirtha-176/LeetCode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Simulation
 |  |
@@ -240,4 +241,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Amirtha-176/LeetCode/tree/master/0056-merge-intervals) |
+## Linked List
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/Amirtha-176/LeetCode/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
