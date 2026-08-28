@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/Amirtha-176/LeetCode/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/Amirtha-176/LeetCode/tree/master/0059-spiral-matrix-ii) |
+| [0119-pascals-triangle-ii](https://github.com/Amirtha-176/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0332-reconstruct-itinerary](https://github.com/Amirtha-176/LeetCode/tree/master/0332-reconstruct-itinerary) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Amirtha-176/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1872-stone-game-viii](https://github.com/Amirtha-176/LeetCode/tree/master/1872-stone-game-viii) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Amirtha-176/LeetCode/tree/master/0062-unique-paths) |
+| [0119-pascals-triangle-ii](https://github.com/Amirtha-176/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [1872-stone-game-viii](https://github.com/Amirtha-176/LeetCode/tree/master/1872-stone-game-viii) |
 | [2538-difference-between-maximum-and-minimum-price-sum](https://github.com/Amirtha-176/LeetCode/tree/master/2538-difference-between-maximum-and-minimum-price-sum) |
 | [2573-find-the-string-with-lcp](https://github.com/Amirtha-176/LeetCode/tree/master/2573-find-the-string-with-lcp) |
