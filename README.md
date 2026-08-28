@@ -223,4 +223,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2751-robot-collisions](https://github.com/Amirtha-176/LeetCode/tree/master/2751-robot-collisions) |
+## Backtracking
+|  |
+| ------- |
+| [0052-n-queens-ii](https://github.com/Amirtha-176/LeetCode/tree/master/0052-n-queens-ii) |
+## Algorithm X
+|  |
+| ------- |
+| [0052-n-queens-ii](https://github.com/Amirtha-176/LeetCode/tree/master/0052-n-queens-ii) |
 <!---LeetCode Topics End-->
