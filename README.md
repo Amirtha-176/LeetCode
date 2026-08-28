@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/Amirtha-176/LeetCode/tree/master/0332-reconstruct-itinerary) |
 | [0685-redundant-connection-ii](https://github.com/Amirtha-176/LeetCode/tree/master/0685-redundant-connection-ii) |
+| [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Amirtha-176/LeetCode/tree/master/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 ## Sorting
 |  |
 | ------- |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0685-redundant-connection-ii](https://github.com/Amirtha-176/LeetCode/tree/master/0685-redundant-connection-ii) |
+| [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Amirtha-176/LeetCode/tree/master/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [2573-find-the-string-with-lcp](https://github.com/Amirtha-176/LeetCode/tree/master/2573-find-the-string-with-lcp) |
 ## Matrix
 |  |
