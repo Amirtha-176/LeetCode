@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Amirtha-176/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0119-pascals-triangle-ii](https://github.com/Amirtha-176/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Amirtha-176/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0130-surrounded-regions](https://github.com/Amirtha-176/LeetCode/tree/master/0130-surrounded-regions) |
 | [0332-reconstruct-itinerary](https://github.com/Amirtha-176/LeetCode/tree/master/0332-reconstruct-itinerary) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Amirtha-176/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1872-stone-game-viii](https://github.com/Amirtha-176/LeetCode/tree/master/1872-stone-game-viii) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/Amirtha-176/LeetCode/tree/master/0130-surrounded-regions) |
 | [0332-reconstruct-itinerary](https://github.com/Amirtha-176/LeetCode/tree/master/0332-reconstruct-itinerary) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Amirtha-176/LeetCode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0685-redundant-connection-ii](https://github.com/Amirtha-176/LeetCode/tree/master/0685-redundant-connection-ii) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/Amirtha-176/LeetCode/tree/master/0130-surrounded-regions) |
 | [0685-redundant-connection-ii](https://github.com/Amirtha-176/LeetCode/tree/master/0685-redundant-connection-ii) |
 | [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Amirtha-176/LeetCode/tree/master/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [2573-find-the-string-with-lcp](https://github.com/Amirtha-176/LeetCode/tree/master/2573-find-the-string-with-lcp) |
@@ -176,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/Amirtha-176/LeetCode/tree/master/0059-spiral-matrix-ii) |
+| [0130-surrounded-regions](https://github.com/Amirtha-176/LeetCode/tree/master/0130-surrounded-regions) |
 | [2573-find-the-string-with-lcp](https://github.com/Amirtha-176/LeetCode/tree/master/2573-find-the-string-with-lcp) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Amirtha-176/LeetCode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 ## Hash Table
@@ -205,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/Amirtha-176/LeetCode/tree/master/0130-surrounded-regions) |
 | [0685-redundant-connection-ii](https://github.com/Amirtha-176/LeetCode/tree/master/0685-redundant-connection-ii) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Amirtha-176/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Amirtha-176/LeetCode/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
