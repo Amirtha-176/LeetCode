@@ -127,10 +127,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Amirtha-176/LeetCode/tree/master/0062-unique-paths) |
 | [1872-stone-game-viii](https://github.com/Amirtha-176/LeetCode/tree/master/1872-stone-game-viii) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Amirtha-176/LeetCode/tree/master/0062-unique-paths) |
 | [1872-stone-game-viii](https://github.com/Amirtha-176/LeetCode/tree/master/1872-stone-game-viii) |
 | [2538-difference-between-maximum-and-minimum-price-sum](https://github.com/Amirtha-176/LeetCode/tree/master/2538-difference-between-maximum-and-minimum-price-sum) |
 | [2573-find-the-string-with-lcp](https://github.com/Amirtha-176/LeetCode/tree/master/2573-find-the-string-with-lcp) |
@@ -245,4 +247,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/Amirtha-176/LeetCode/tree/master/0061-rotate-list) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Amirtha-176/LeetCode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
