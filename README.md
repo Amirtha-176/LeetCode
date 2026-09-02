@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Amirtha-176/LeetCode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Amirtha-176/LeetCode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Amirtha-176/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Amirtha-176/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Stack
 |  |
 | ------- |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Amirtha-176/LeetCode/tree/master/0062-unique-paths) |
 | [0089-gray-code](https://github.com/Amirtha-176/LeetCode/tree/master/0089-gray-code) |
 | [1872-stone-game-viii](https://github.com/Amirtha-176/LeetCode/tree/master/1872-stone-game-viii) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Amirtha-176/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Dynamic Programming
 |  |
 | ------- |
