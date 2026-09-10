@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Amirtha-176/LeetCode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1080-insufficient-nodes-in-root-to-leaf-paths](https://github.com/Amirtha-176/LeetCode/tree/master/1080-insufficient-nodes-in-root-to-leaf-paths) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Amirtha-176/LeetCode/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Amirtha-176/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2509-cycle-length-queries-in-a-tree](https://github.com/Amirtha-176/LeetCode/tree/master/2509-cycle-length-queries-in-a-tree) |
 | [2538-difference-between-maximum-and-minimum-price-sum](https://github.com/Amirtha-176/LeetCode/tree/master/2538-difference-between-maximum-and-minimum-price-sum) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Amirtha-176/LeetCode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Amirtha-176/LeetCode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1080-insufficient-nodes-in-root-to-leaf-paths](https://github.com/Amirtha-176/LeetCode/tree/master/1080-insufficient-nodes-in-root-to-leaf-paths) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Amirtha-176/LeetCode/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Amirtha-176/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2509-cycle-length-queries-in-a-tree](https://github.com/Amirtha-176/LeetCode/tree/master/2509-cycle-length-queries-in-a-tree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Amirtha-176/LeetCode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/Amirtha-176/LeetCode/tree/master/2641-cousins-in-binary-tree-ii) |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Amirtha-176/LeetCode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1080-insufficient-nodes-in-root-to-leaf-paths](https://github.com/Amirtha-176/LeetCode/tree/master/1080-insufficient-nodes-in-root-to-leaf-paths) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Amirtha-176/LeetCode/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Amirtha-176/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2538-difference-between-maximum-and-minimum-price-sum](https://github.com/Amirtha-176/LeetCode/tree/master/2538-difference-between-maximum-and-minimum-price-sum) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/Amirtha-176/LeetCode/tree/master/2641-cousins-in-binary-tree-ii) |
 ## String
